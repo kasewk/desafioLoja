@@ -1,5 +1,10 @@
 .bgColor{
     background-color: #FFF;
     margin: 2% 8% 0px 8%;
-    height: 800px;
+    /* height: 800px; */
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    
 }

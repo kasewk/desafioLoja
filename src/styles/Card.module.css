@@ -1,0 +1,21 @@
+.preco{
+    color: forestgreen;
+    margin-left: 70%;
+    font-weight: 700;
+    font-size:20px;
+}
+
+.marginCard{
+    margin: 8px;
+    height: 438px;
+    overflow: hidden;
+}
+
+.cardButton{
+    margin-left: 35px;
+}
+
+.cardDescription{
+    height: 70px;
+    overflow: hidden;
+}
